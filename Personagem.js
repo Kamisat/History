@@ -1,0 +1,16 @@
+/*
+Jonathan Joestar
+
+Dio Brando
+
+Erina Pendleton
+
+Willian Zeppei
+
+Speedwagon
+
+Joseph Joestar
+
+Caesar Zeppei
+
+*/
