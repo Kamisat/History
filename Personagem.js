@@ -13,4 +13,6 @@ Joseph Joestar
 
 Caesar Zeppei
 
+Kujoh Jotaro
+
 */
